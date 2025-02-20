@@ -8,4 +8,4 @@ console.log('__dirname in wrapper-explorer', __dirname)
 module.exports.greet = function(name){
     console.log(`hello ${name}`);
 };
-//basically we created this geet function here only along with module.exports, nothing superficial
+//basically we created this geet function here only along with module.exports and as a result exported this function too, nothing superficial

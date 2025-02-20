@@ -1,3 +1,14 @@
+//module wrapper
+
+// (
+//     function(exports, require, module, __filename, __dirname){
+        //your module code goes here
+//     }
+// )
+
+
+
+
 const wrapperExplorer = require('./wrapper-explorer');
 
 //we are trying to print the parametes stored by wrapper module functions 
